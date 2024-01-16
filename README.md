@@ -7,7 +7,7 @@
 
 # Improvements
 - Theoretical:
-  - Refine categories to group similar board positions
+  - Refine categories to group similar board positions (similar # of pieces, similar piece position, similar moves, etc.)
   - Alert user in game review more often when they have made a commonly made mistake
   - Alert user in game review less often when they succeed in similar positions
  
