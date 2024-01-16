@@ -11,6 +11,6 @@
   - Alert user in game review more often when they have made a commonly made mistake
   - Alert user in game review less often when they succeed in similar positions
  
-- Practical:
+- Actionable:
   - Normal chess UI
   - Asynchronous processing
