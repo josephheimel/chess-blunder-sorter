@@ -1,0 +1,644 @@
+{
+  "positionalMistake when moving a knight": {
+    "1": {
+      "board": ". . . . . . . .\n. p . . . . . .\np . . . . . . .\n. . . . . p . p\n. . . . . . . P\n. . . . . . . .\nK q k . . . . .\n. . . . . . . .",
+      "opponent": "rodrigodeocampo20",
+      "real move": "Nh6",
+      "best move": "Ng2",
+      "opponent best move": "Qe4+",
+      "fen": "8/1p6/p7/5p1p/7P/8/Kqk5/8 w - - 14 61"
+    },
+    "2": {
+      "board": "r . . k . . . .\np p p . . . . p\n. . . b . P . .\n. . . . . . . .\n. . . Q P . . .\n. . N . . P . .\nP P P P . . . P\nR . B . K B . R",
+      "opponent": "vader1111",
+      "real move": "Nf3",
+      "best move": "e5",
+      "opponent best move": "a5",
+      "fen": "r2k4/ppp4p/3b1P2/8/3QP3/2N2P2/PPPP3P/R1B1KB1R b KQ - 0 14"
+    },
+    "3": {
+      "board": "r . . . . . . r\np p p N b k . .\n. . . p . . . .\n. . . . . . . .\n. . . n . B p .\n. . . B . . Q .\nP P P . . . P .\n. . K . R . . R",
+      "opponent": "vader1111",
+      "real move": "Nf3+",
+      "best move": "Bc4",
+      "opponent best move": "Kf7",
+      "fen": "r6r/pppNbk2/3p4/8/3n1Bp1/3B2Q1/PPP3P1/2K1R2R b - - 0 24"
+    },
+    "4": {
+      "board": ". . . . . . . .\np . . . . . . p\n. . . . . . . .\n. . . . N . . k\n. P . . K p . .\n. . . . . . . .\nn . . . B . P P\nB . . r . . . .",
+      "opponent": "grek0071",
+      "real move": "Nd5",
+      "best move": "Bb5",
+      "opponent best move": "Nd4",
+      "fen": "8/p6p/8/4N2k/1P2Kp2/8/n3B1PP/B2r4 b - - 11 38"
+    },
+    "5": {
+      "board": ". . . . . . . .\np . . . . . . p\n. . . . . . . .\n. . . . N . . k\n. P . . K p . .\n. . . . . . . .\nn . . . B . P P\nB . . r . . . .",
+      "opponent": "grek0071",
+      "real move": "Ne5",
+      "best move": "Be5",
+      "opponent best move": "Rd1",
+      "fen": "8/p6p/8/4N2k/1P2Kp2/8/n3B1PP/B2r4 b - - 11 38"
+    },
+    "6": {
+      "board": ". . . . . . . .\np . . . . . . p\n. . . . . . . .\n. . . . N . . k\n. P . . K p . .\n. . . . . . . .\nn . . . B . P P\nB . . r . . . .",
+      "opponent": "grek0071",
+      "real move": "Nxc6",
+      "best move": "Nf7+",
+      "opponent best move": "Rc8",
+      "fen": "8/p6p/8/4N2k/1P2Kp2/8/n3B1PP/B2r4 b - - 11 38"
+    },
+    "7": {
+      "board": ". . . . . . . .\n. . . . . . . .\np . . . . . . .\n. . . . . P . .\n. . . . . K . .\n. . . P . . . .\nP . . . . P . k\n. . . . . . . .",
+      "opponent": "coki138",
+      "real move": "Nc6",
+      "best move": "h4",
+      "opponent best move": "h4",
+      "fen": "8/8/p7/5P2/5K2/3P4/P4P1k/8 w - - 0 52"
+    },
+    "8": {
+      "board": ". . . . . . . .\n. . . . . . . .\np . . . . . . .\n. . . . . P . .\n. . . . . K . .\n. . . P . . . .\nP . . . . P . k\n. . . . . . . .",
+      "opponent": "coki138",
+      "real move": "Ne3+",
+      "best move": "f6",
+      "opponent best move": "Kg5",
+      "fen": "8/8/p7/5P2/5K2/3P4/P4P1k/8 w - - 0 52"
+    },
+    "9": {
+      "board": ". . . . . . . .\n. . . . . . . .\np . . . . . . .\n. . . . . P . .\n. . . . . K . .\n. . . P . . . .\nP . . . . P . k\n. . . . . . . .",
+      "opponent": "coki138",
+      "real move": "Nxe6+",
+      "best move": "b4",
+      "opponent best move": "Kc8",
+      "fen": "8/8/p7/5P2/5K2/3P4/P4P1k/8 w - - 0 52"
+    },
+    "10": {
+      "board": ". . . r . . . .\np . k . . . p .\n. p . . . p . .\n. K . . . . . p\nP P b . . . . r\n. . . . . . . .\n. . . . . . . .\n. . . . . . . .",
+      "opponent": "Ajaysharma515",
+      "real move": "Ne2",
+      "best move": "d7",
+      "opponent best move": "Qg5+",
+      "fen": "3r4/p1k3p1/1p3p2/1K5p/PPb4r/8/8/8 w - - 0 47"
+    }
+  },
+  "missedCaptures when moving a queen": {
+    "1": {
+      "board": "r . . . . . . .\n. . Q . . . . .\n. . k p N . p .\np . p . p . . .\n. . . . P P . .\n. . . . . . . .\nP . P . . . P P\n. R . . . R K .",
+      "opponent": "mypawncankillyourpawn",
+      "real move": "Qh3",
+      "best move": "Bxh6",
+      "opponent best move": "Bxh3",
+      "fen": "r7/2Q5/2kpN1p1/p1p1p3/4PP2/8/P1P3PP/1R3RK1 b - - 6 38"
+    },
+    "2": {
+      "board": ". . k . r . . .\np p p . . . . p\n. . n . . p p .\n. . b . . . . .\n. P p . . . . .\n. . P . . . P .\nP . . P . q . P\nR . B . . K R .",
+      "opponent": "vader1111",
+      "real move": "Qxg8+",
+      "best move": "Qxh7",
+      "opponent best move": "Bxg8",
+      "fen": "2k1r3/ppp4p/2n2pp1/2b5/1Pp5/2P3P1/P2P1q1P/R1B2KR1 w - - 0 17"
+    },
+    "3": {
+      "board": ". . . . . r k .\n. p . . . b . p\np q . . . . p B\n. . . . . . . .\n. n . . P . . .\n. . Q . . . . .\n. P . . . . P P\n. . . R . . . K",
+      "opponent": "pmart85",
+      "real move": "Qf3",
+      "best move": "Nxf7",
+      "opponent best move": "Bxg5",
+      "fen": "5rk1/1p3b1p/pq4pB/8/1n2P3/2Q5/1P4PP/3R3K b - - 4 26"
+    },
+    "4": {
+      "board": ". . . . . r . k\np p p Q . . p p\n. . . . . . . .\n. . . . . . . .\n. . . . . . . .\n. . P . . P . .\nP P P . . . P P\nR . . . . . K .",
+      "opponent": "jm_holden",
+      "real move": "Qd8+",
+      "best move": "Qxf7",
+      "opponent best move": "Qf8",
+      "fen": "5r1k/pppQ2pp/8/8/8/2P2P2/PPP3PP/R5K1 b - - 0 20"
+    },
+    "5": {
+      "board": "r . b . k . . r\np p . . . p p p\n. . . . . . . .\n. . . p Q . . .\n. . . . . . . .\n. . . . B P . .\nP . P . . . P P\nR . . . K . . R",
+      "opponent": "vader1111",
+      "real move": "Qe5+",
+      "best move": "Qxg7",
+      "opponent best move": "Be6",
+      "fen": "r1b1k2r/pp3ppp/8/3pQ3/8/4BP2/P1P3PP/R3K2R b KQkq - 1 15"
+    },
+    "6": {
+      "board": ". . . . . . . .\n. . . . . . . .\n. . . . . p . .\np K . . . . . .\n. . . p . . P .\n. . . . . k . .\nP . . . . . . .\n. . . . . . . .",
+      "opponent": "Iceryder",
+      "real move": "Qg3",
+      "best move": "Qxb4",
+      "opponent best move": "Bd6",
+      "fen": "8/8/5p2/pK6/3p2P1/5k2/P7/8 b - - 0 49"
+    },
+    "7": {
+      "board": ". . . . . . . .\np . . . k . p .\n. . P . . . . .\n. K . . . . p .\n. . . . . . . .\n. . . . . . . .\n. . . . . . . P\n. . . . . . . .",
+      "opponent": "vader1111",
+      "real move": "Qb5",
+      "best move": "exd6+",
+      "opponent best move": "Kd8",
+      "fen": "8/p3k1p1/2P5/1K4p1/8/8/7P/8 w - - 0 46"
+    },
+    "8": {
+      "board": ". . . . . . . .\n. . . . . . . .\n. . . . . p . .\np K . . . . . .\n. . . p . . P .\n. . . . . k . .\nP . . . . . . .\n. . . . . . . .",
+      "opponent": "Iceryder",
+      "real move": "Qh4",
+      "best move": "Qxf5",
+      "opponent best move": "Qxf3+",
+      "fen": "8/8/5p2/pK6/3p2P1/5k2/P7/8 b - - 0 49"
+    }
+  },
+  "missedCaptures when moving a pawn": {
+    "1": {
+      "board": ". . . . . . . .\n. . . . . . . .\n. . . . . p . .\np K . . . . . .\n. . . p . . P .\n. . . . . k . .\nP . . . . . . .\n. . . . . . . .",
+      "opponent": "Iceryder",
+      "real move": "h3",
+      "best move": "Qxg7+",
+      "opponent best move": "Rxg4+",
+      "fen": "8/8/5p2/pK6/3p2P1/5k2/P7/8 b - - 0 49"
+    },
+    "2": {
+      "board": "r . . . k b . r\np p . . . p . .\n. n q p . n . .\n. B . . p P . p\n. . . . . . p .\n. . N . . . B .\nP P P . Q P P P\nR . . . . R K .",
+      "opponent": "katrok212",
+      "real move": "d5",
+      "best move": "dxe5",
+      "opponent best move": "Nb6",
+      "fen": "r3kb1r/pp3p2/1nqp1n2/1B2pP1p/6p1/2N3B1/PPP1QPPP/R4RK1 b kq - 1 16"
+    },
+    "3": {
+      "board": "r . . . . . . r\np p p N b k . .\n. . . p . . . .\n. . . . . . . .\n. . . n . B p .\n. . . B . . Q .\nP P P . . . P .\n. . K . R . . R",
+      "opponent": "vader1111",
+      "real move": "exf6+",
+      "best move": "Nxc7+",
+      "opponent best move": "Kd8",
+      "fen": "r6r/pppNbk2/3p4/8/3n1Bp1/3B2Q1/PPP3P1/2K1R2R b - - 0 24"
+    },
+    "4": {
+      "board": ". . . . . . R .\nR . . . . . . r\n. . . . . . . .\n. . . . . . . .\n. . P . . . . .\n. . . . k . P .\n. . . . . . K .\n. . . . . . . .",
+      "opponent": "MOpening",
+      "real move": "h3",
+      "best move": "Bxg7",
+      "opponent best move": "Bxf3",
+      "fen": "6R1/R6r/8/8/2P5/4k1P1/6K1/8 w - - 0 37"
+    },
+    "5": {
+      "board": ". . . . . r . k\np p p Q . . p p\n. . . . . . . .\n. . . . . . . .\n. . . . . . . .\n. . P . . P . .\nP P P . . . P P\nR . . . . . K .",
+      "opponent": "jm_holden",
+      "real move": "f3",
+      "best move": "Bxe4",
+      "opponent best move": "Nd6",
+      "fen": "5r1k/pppQ2pp/8/8/8/2P2P2/PPP3PP/R5K1 b - - 0 20"
+    },
+    "6": {
+      "board": ". . . . . . . .\n. . p . . . . .\n. p . . . K . .\np P . . . . . .\nq . . . . . . .\n. . . . k . . .\n. . . . . . . .\n. . . . . . . .",
+      "opponent": "vader1111",
+      "real move": "f4",
+      "best move": "Bxf6",
+      "opponent best move": "Rae8",
+      "fen": "8/2p5/1p3K2/pP6/q7/4k3/8/8 w - - 0 46"
+    },
+    "7": {
+      "board": ". . . . . . . .\n. p . . . . . .\np . . . . . . .\n. . . . . p . p\n. . . . . . . P\n. . . . . . . .\nK q k . . . . .\n. . . . . . . .",
+      "opponent": "rodrigodeocampo20",
+      "real move": "f4",
+      "best move": "exf6",
+      "opponent best move": "Ne3",
+      "fen": "8/1p6/p7/5p1p/7P/8/Kqk5/8 w - - 14 61"
+    }
+  },
+  "allowedMate when moving a knight": {
+    "1": {
+      "board": ". . . . . . . .\n. . . . . . . .\nk Q . . . . . .\np p . N . . . .\n. . . . . . . .\n. . . . . . . .\nP P P . . . . .\n. K . . . . . .",
+      "opponent": "vader1111",
+      "real move": "Nc3",
+      "best move": "Qxc6",
+      "opponent best move": "Bb4",
+      "fen": "8/8/kQ6/pp1N4/8/8/PPP5/1K6 b - - 2 37"
+    },
+    "2": {
+      "board": "r . . . . . . r\np p p N b k . .\n. . . p . . . .\n. . . . . . . .\n. . . n . B p .\n. . . B . . Q .\nP P P . . . P .\n. . K . R . . R",
+      "opponent": "vader1111",
+      "real move": "Nhf6+",
+      "best move": "Nhf6+",
+      "opponent best move": "Kf7",
+      "fen": "r6r/pppNbk2/3p4/8/3n1Bp1/3B2Q1/PPP3P1/2K1R2R b - - 0 24"
+    },
+    "3": {
+      "board": ". . . . . . . .\n. . . . . . . .\np . . . . . . .\n. . . . . P . .\n. . . . . K . .\n. . . P . . . .\nP . . . . P . k\n. . . . . . . .",
+      "opponent": "coki138",
+      "real move": "Ne3+",
+      "best move": "h3",
+      "opponent best move": "Kxh2",
+      "fen": "8/8/p7/5P2/5K2/3P4/P4P1k/8 w - - 0 52"
+    },
+    "4": {
+      "board": "r . . q k . . r\n. b . n p . N p\np . . p . . p Q\n. p . . . . . .\n. . . . n . . .\nP . . B . . . .\n. P P . . . P P\nR N . . . R K .",
+      "opponent": "Spock236",
+      "real move": "Ne6",
+      "best move": "Bxe4",
+      "opponent best move": "Qb6+",
+      "fen": "r2qk2r/1b1np1Np/p2p2pQ/1p6/4n3/P2B4/1PP3PP/RN3RK1 b kq - 3 14"
+    }
+  },
+  "positionalMistake when moving a queen": {
+    "1": {
+      "board": ". . . . . . . .\n. . . . . . . .\np . . . . . . .\n. . . . . P . .\n. . . . . K . .\n. . . P . . . .\nP . . . . P . k\n. . . . . . . .",
+      "opponent": "coki138",
+      "real move": "Qc8+",
+      "best move": "Nc6",
+      "opponent best move": "Qb8",
+      "fen": "8/8/p7/5P2/5K2/3P4/P4P1k/8 w - - 0 52"
+    },
+    "2": {
+      "board": "r . . k . . . .\np p p . . . . p\n. . . b . P . .\n. . . . . . . .\n. . . Q P . . .\n. . N . . P . .\nP P P P . . . P\nR . B . K B . R",
+      "opponent": "vader1111",
+      "real move": "Qxd5+",
+      "best move": "Qg8+",
+      "opponent best move": "Bd6",
+      "fen": "r2k4/ppp4p/3b1P2/8/3QP3/2N2P2/PPPP3P/R1B1KB1R b KQ - 0 14"
+    },
+    "3": {
+      "board": ". r . . k . . r\np . Q . . p . p\nB . b . p . p B\n. . . . . . . .\n. n . P . . . .\n. P . . . . . .\n. . q . . . P P\n. . K R . R . .",
+      "opponent": "Imfaz69",
+      "real move": "Qb4",
+      "best move": "Bb5",
+      "opponent best move": "Qd6",
+      "fen": "1r2k2r/p1Q2p1p/B1b1p1pB/8/1n1P4/1P6/2q3PP/2KR1R2 w k - 0 24"
+    },
+    "4": {
+      "board": ". r r . . . . .\n. . K . k p . p\n. . . . . . . B\np . . . p . . .\n. . B n P . . .\n. . . P . . . P\nP P q . . . . P\nR . . . . . . R",
+      "opponent": "vader1111",
+      "real move": "Qxg7",
+      "best move": "Qg3",
+      "opponent best move": "Rg8",
+      "fen": "1rr5/2K1kp1p/7B/p3p3/2BnP3/3P3P/PPq4P/R6R w - - 1 22"
+    }
+  },
+  "missedCaptures when moving a king": {
+    "1": {
+      "board": ". . . . . . . .\np . . . k . p .\n. . P . . . . .\n. K . . . . p .\n. . . . . . . .\n. . . . . . . .\n. . . . . . . P\n. . . . . . . .",
+      "opponent": "vader1111",
+      "real move": "Kd5",
+      "best move": "Rxf5+",
+      "opponent best move": "h5",
+      "fen": "8/p3k1p1/2P5/1K4p1/8/8/7P/8 w - - 0 46"
+    },
+    "2": {
+      "board": ". . . . . . . .\n. . p . . . . .\n. p . . . K . .\np P . . . . . .\nq . . . . . . .\n. . . . k . . .\n. . . . . . . .\n. . . . . . . .",
+      "opponent": "vader1111",
+      "real move": "Kc2",
+      "best move": "Rxe1",
+      "opponent best move": "Rxd1",
+      "fen": "8/2p5/1p3K2/pP6/q7/4k3/8/8 w - - 0 46"
+    },
+    "3": {
+      "board": ". . . . . . . .\np . . . k . p .\n. . P . . . . .\n. K . . . . p .\n. . . . . . . .\n. . . . . . . .\n. . . . . . . P\n. . . . . . . .",
+      "opponent": "vader1111",
+      "real move": "Kb2",
+      "best move": "Rxd5+",
+      "opponent best move": "Kc8",
+      "fen": "8/p3k1p1/2P5/1K4p1/8/8/7P/8 w - - 0 46"
+    },
+    "4": {
+      "board": ". . . . . . . .\n. . . . . . . .\n. . . . . p . .\np K . . . . . .\n. . . p . . P .\n. . . . . k . .\nP . . . . . . .\n. . . . . . . .",
+      "opponent": "Iceryder",
+      "real move": "Kh1",
+      "best move": "fxg6+",
+      "opponent best move": "Ng7",
+      "fen": "8/8/5p2/pK6/3p2P1/5k2/P7/8 b - - 0 49"
+    }
+  },
+  "missedDefense when moving a pawn": {
+    "1": {
+      "board": ". . . . . . . .\n. . p . . . . .\n. p . . . K . .\np P . . . . . .\nq . . . . . . .\n. . . . k . . .\n. . . . . . . .\n. . . . . . . .",
+      "opponent": "vader1111",
+      "real move": "d4",
+      "best move": "Nd5",
+      "opponent best move": "dxe5",
+      "fen": "8/2p5/1p3K2/pP6/q7/4k3/8/8 w - - 0 46"
+    },
+    "2": {
+      "board": "r . . . . . . .\n. . Q . . . . .\n. . k p N . p .\np . p . p . . .\n. . . . P P . .\n. . . . . . . .\nP . P . . . P P\n. R . . . R K .",
+      "opponent": "mypawncankillyourpawn",
+      "real move": "dxe4",
+      "best move": "Qh6",
+      "opponent best move": "Bxh3",
+      "fen": "r7/2Q5/2kpN1p1/p1p1p3/4PP2/8/P1P3PP/1R3RK1 b - - 6 38"
+    },
+    "3": {
+      "board": "r . b . k . n r\np . . . . . p p\n. p Q B p p q .\n. . . . . . . .\n. P . . P . . .\nP . . P . N . .\n. . P . . P P P\nR . . . K B . R",
+      "opponent": "TurnOverYourKing",
+      "real move": "a3",
+      "best move": "e5",
+      "opponent best move": "Bxc3+",
+      "fen": "r1b1k1nr/p5pp/1pQBppq1/8/1P2P3/P2P1N2/2P2PPP/R3KB1R b KQkq - 0 12"
+    },
+    "4": {
+      "board": "r . b . k . . r\np p . . . p p p\n. . . . . . . .\n. . . p Q . . .\n. . . . . . . .\n. . . . B P . .\nP . P . . . P P\nR . . . K . . R",
+      "opponent": "vader1111",
+      "real move": "f3",
+      "best move": "Qd4",
+      "opponent best move": "Qxc5",
+      "fen": "r1b1k2r/pp3ppp/8/3pQ3/8/4BP2/P1P3PP/R3K2R b KQkq - 1 15"
+    }
+  },
+  "missedDefense when moving a bishop": {
+    "1": {
+      "board": ". . . . . . . .\np . . . k . p .\n. . P . . . . .\n. K . . . . p .\n. . . . . . . .\n. . . . . . . .\n. . . . . . . P\n. . . . . . . .",
+      "opponent": "vader1111",
+      "real move": "Bc4",
+      "best move": "Nc7+",
+      "opponent best move": "Nxc4",
+      "fen": "8/p3k1p1/2P5/1K4p1/8/8/7P/8 w - - 0 46"
+    },
+    "2": {
+      "board": ". . . . . . R .\nR . . . . . . r\n. . . . . . . .\n. . . . . . . .\n. . P . . . . .\n. . . . k . P .\n. . . . . . K .\n. . . . . . . .",
+      "opponent": "MOpening",
+      "real move": "Bxg8",
+      "best move": "O-O-O",
+      "opponent best move": "Rxg8",
+      "fen": "6R1/R6r/8/8/2P5/4k1P1/6K1/8 w - - 0 37"
+    },
+    "3": {
+      "board": "r . . . . . . r\np p p N b k . .\n. . . p . . . .\n. . . . . . . .\n. . . n . B p .\n. . . B . . Q .\nP P P . . . P .\n. . K . R . . R",
+      "opponent": "vader1111",
+      "real move": "Bxf4",
+      "best move": "Nd5",
+      "opponent best move": "dxe5",
+      "fen": "r6r/pppNbk2/3p4/8/3n1Bp1/3B2Q1/PPP3P1/2K1R2R b - - 0 24"
+    },
+    "4": {
+      "board": ". . . . . . . .\n. . . . . . . .\nk Q . . . . . .\np p . N . . . .\n. . . . . . . .\n. . . . . . . .\nP P P . . . . .\n. K . . . . . .",
+      "opponent": "vader1111",
+      "real move": "Bxf4",
+      "best move": "Nd5",
+      "opponent best move": "dxe5",
+      "fen": "8/8/kQ6/pp1N4/8/8/PPP5/1K6 b - - 2 37"
+    }
+  },
+  "positionalMistake when moving a rook": {
+    "1": {
+      "board": ". . . . . . R .\nR . . . . . . r\n. . . . . . . .\n. . . . . . . .\n. . P . . . . .\n. . . . k . P .\n. . . . . . K .\n. . . . . . . .",
+      "opponent": "MOpening",
+      "real move": "Rf7",
+      "best move": "Rae1+",
+      "opponent best move": "Ke6",
+      "fen": "6R1/R6r/8/8/2P5/4k1P1/6K1/8 w - - 0 37"
+    },
+    "2": {
+      "board": ". . . . . r k .\n. p . . . b . p\np q . . . . p B\n. . . . . . . .\n. n . . P . . .\n. . Q . . . . .\n. P . . . . P P\n. . . R . . . K",
+      "opponent": "pmart85",
+      "real move": "Rad1",
+      "best move": "Be5",
+      "opponent best move": "Ne2",
+      "fen": "5rk1/1p3b1p/pq4pB/8/1n2P3/2Q5/1P4PP/3R3K b - - 4 26"
+    },
+    "3": {
+      "board": ". r . . k . . r\np . Q . . p . p\nB . b . p . p B\n. . . . . . . .\n. n . P . . . .\n. P . . . . . .\n. . q . . . P P\n. . K R . R . .",
+      "opponent": "Imfaz69",
+      "real move": "Rhf1",
+      "best move": "d5",
+      "opponent best move": "Qd6",
+      "fen": "1r2k2r/p1Q2p1p/B1b1p1pB/8/1n1P4/1P6/2q3PP/2KR1R2 w k - 0 24"
+    }
+  },
+  "positionalMistake when moving a king": {
+    "1": {
+      "board": ". . . . . . . .\n. . . . . . . .\n. . . . . p . .\np K . . . . . .\n. . . p . . P .\n. . . . . k . .\nP . . . . . . .\n. . . . . . . .",
+      "opponent": "Iceryder",
+      "real move": "Kxb5",
+      "best move": "Kd5",
+      "opponent best move": "d3",
+      "fen": "8/8/5p2/pK6/3p2P1/5k2/P7/8 b - - 0 49"
+    },
+    "2": {
+      "board": ". r r . . . . .\n. . K . k p . p\n. . . . . . . B\np . . . p . . .\n. . B n P . . .\n. . . P . . . P\nP P q . . . . P\nR . . . . . . R",
+      "opponent": "vader1111",
+      "real move": "Kxf2",
+      "best move": "Kd1",
+      "opponent best move": "Ng4+",
+      "fen": "1rr5/2K1kp1p/7B/p3p3/2BnP3/3P3P/PPq4P/R6R w - - 1 22"
+    },
+    "3": {
+      "board": ". . . . . . . .\np . . . k . p .\n. . P . . . . .\n. K . . . . p .\n. . . . . . . .\n. . . . . . . .\n. . . . . . . P\n. . . . . . . .",
+      "opponent": "vader1111",
+      "real move": "Kc4",
+      "best move": "Kc6",
+      "opponent best move": "Re4+",
+      "fen": "8/p3k1p1/2P5/1K4p1/8/8/7P/8 w - - 0 46"
+    }
+  },
+  "positionalMistake when moving a pawn": {
+    "1": {
+      "board": ". . . r . . . .\np . k . . . p .\n. p . . . p . .\n. K . . . . . p\nP P b . . . . r\n. . . . . . . .\n. . . . . . . .\n. . . . . . . .",
+      "opponent": "Ajaysharma515",
+      "real move": "d5",
+      "best move": "Nf3",
+      "opponent best move": "Qh4+",
+      "fen": "3r4/p1k3p1/1p3p2/1K5p/PPb4r/8/8/8 w - - 0 47"
+    },
+    "2": {
+      "board": ". . . r . . . .\np . k . . . p .\n. p . . . p . .\n. K . . . . . p\nP P b . . . . r\n. . . . . . . .\n. . . . . . . .\n. . . . . . . .",
+      "opponent": "Ajaysharma515",
+      "real move": "d6",
+      "best move": "Qc5+",
+      "opponent best move": "Qf5",
+      "fen": "3r4/p1k3p1/1p3p2/1K5p/PPb4r/8/8/8 w - - 0 47"
+    },
+    "3": {
+      "board": ". r . . k . . r\np . Q . . p . p\nB . b . p . p B\n. . . . . . . .\n. n . P . . . .\n. P . . . . . .\n. . q . . . P P\n. . K R . R . .",
+      "opponent": "Imfaz69",
+      "real move": "b3",
+      "best move": "Qb3",
+      "opponent best move": "Qa3+",
+      "fen": "1r2k2r/p1Q2p1p/B1b1p1pB/8/1n1P4/1P6/2q3PP/2KR1R2 w k - 0 24"
+    }
+  },
+  "missedCaptures when moving a bishop": {
+    "1": {
+      "board": "r . . . . . . .\n. . Q . . . . .\n. . k p N . p .\np . p . p . . .\n. . . . P P . .\n. . . . . . . .\nP . P . . . P P\n. R . . . R K .",
+      "opponent": "mypawncankillyourpawn",
+      "real move": "Bd5",
+      "best move": "Bxe6",
+      "opponent best move": "Qd7",
+      "fen": "r7/2Q5/2kpN1p1/p1p1p3/4PP2/8/P1P3PP/1R3RK1 b - - 6 38"
+    },
+    "2": {
+      "board": ". . . . . . . .\n. . p . . . . .\n. p . . . K . .\np P . . . . . .\nq . . . . . . .\n. . . . k . . .\n. . . . . . . .\n. . . . . . . .",
+      "opponent": "vader1111",
+      "real move": "Bg5",
+      "best move": "Bxd6",
+      "opponent best move": "Kxd7",
+      "fen": "8/2p5/1p3K2/pP6/q7/4k3/8/8 w - - 0 46"
+    },
+    "3": {
+      "board": ". . . . . . . .\n. . . . . . . .\np . . . . . . .\n. . . . . P . .\n. . . . . K . .\n. . . P . . . .\nP . . . . P . k\n. . . . . . . .",
+      "opponent": "coki138",
+      "real move": "Bxe6+",
+      "best move": "Qxf7+",
+      "opponent best move": "fxe6",
+      "fen": "8/8/p7/5P2/5K2/3P4/P4P1k/8 w - - 0 52"
+    }
+  },
+  "missedCaptures when moving a rook": {
+    "1": {
+      "board": ". . . . . . . .\n. . . . . . . .\n. . . Q . . . .\np . P . . . p .\nP p . r . . . p\n. . . k . . . P\n. . . . . . K .\n. . . R . . . .",
+      "opponent": "bonzo1989",
+      "real move": "Rxf7",
+      "best move": "exf8=Q",
+      "opponent best move": "Re8",
+      "fen": "8/8/3Q4/p1P3p1/Pp1r3p/3k3P/6K1/3R4 b - - 6 44"
+    },
+    "2": {
+      "board": ". . . . . . r k\np . p . . R . R\n. p . b . . . .\n. . . . . . . .\n. . . . P . . .\n. . . P . . . .\nP P P B . . r .\n. . K . . . . .",
+      "opponent": "vader1111",
+      "real move": "Rxf6",
+      "best move": "Nxc5",
+      "opponent best move": "Bd4",
+      "fen": "6rk/p1p2R1R/1p1b4/8/4P3/3P4/PPPB2r1/2K5 b - - 0 26"
+    },
+    "3": {
+      "board": ". . . . . . . .\n. . . . . . . .\n. . . . . p . .\np K . . . . . .\n. . . p . . P .\n. . . . . k . .\nP . . . . . . .\n. . . . . . . .",
+      "opponent": "Iceryder",
+      "real move": "Re8+",
+      "best move": "Rxf7",
+      "opponent best move": "Rxe8",
+      "fen": "8/8/5p2/pK6/3p2P1/5k2/P7/8 b - - 0 49"
+    }
+  },
+  "missedDefense when moving a knight": {
+    "1": {
+      "board": ". . . . . . . .\n. p . . . . . .\np . . . . . . .\n. . . . . p . p\n. . . . . . . P\n. . . . . . . .\nK q k . . . . .\n. . . . . . . .",
+      "opponent": "rodrigodeocampo20",
+      "real move": "Nh3",
+      "best move": "h4",
+      "opponent best move": "Qxg4+",
+      "fen": "8/1p6/p7/5p1p/7P/8/Kqk5/8 w - - 14 61"
+    },
+    "2": {
+      "board": "r . . . . . . .\n. . Q . . . . .\n. . k p N . p .\np . p . p . . .\n. . . . P P . .\n. . . . . . . .\nP . P . . . P P\n. R . . . R K .",
+      "opponent": "mypawncankillyourpawn",
+      "real move": "Nf5",
+      "best move": "Ng6",
+      "opponent best move": "Bxf5",
+      "fen": "r7/2Q5/2kpN1p1/p1p1p3/4PP2/8/P1P3PP/1R3RK1 b - - 6 38"
+    }
+  },
+  "allowedMate when moving a pawn": {
+    "1": {
+      "board": ". r r . . . . .\n. . K . k p . p\n. . . . . . . B\np . . . p . . .\n. . B n P . . .\n. . . P . . . P\nP P q . . . . P\nR . . . . . . R",
+      "opponent": "vader1111",
+      "real move": "gxh3",
+      "best move": "Nxf6+",
+      "opponent best move": "Rg2+",
+      "fen": "1rr5/2K1kp1p/7B/p3p3/2BnP3/3P3P/PPq4P/R6R w - - 1 22"
+    },
+    "2": {
+      "board": ". . k . r . . .\np p p . . . . p\n. . n . . p p .\n. . b . . . . .\n. P p . . . . .\n. . P . . . P .\nP . . P . q . P\nR . B . . K R .",
+      "opponent": "vader1111",
+      "real move": "g3",
+      "best move": "h4",
+      "opponent best move": "Qxf3",
+      "fen": "2k1r3/ppp4p/2n2pp1/2b5/1Pp5/2P3P1/P2P1q1P/R1B2KR1 w - - 0 17"
+    }
+  },
+  "missedCaptures when moving a knight": {
+    "1": {
+      "board": "r . . . . . . .\n. p . n . . . .\np . p . B . k B\n. . b p P Q . .\n. . q . . . . .\n. . P . . . . .\nP P . . . . K .\nR . . . . . . R",
+      "opponent": "TatayCaloy53",
+      "real move": "Nh4",
+      "best move": "exf6",
+      "opponent best move": "Bxh4",
+      "fen": "r7/1p1n4/p1p1B1kB/2bpPQ2/2q5/2P5/PP4K1/R6R b - - 2 28"
+    },
+    "2": {
+      "board": ". . . r . . . .\np . k . . . p .\n. p . . . p . .\n. K . . . . . p\nP P b . . . . r\n. . . . . . . .\n. . . . . . . .\n. . . . . . . .",
+      "opponent": "Ajaysharma515",
+      "real move": "Nd5",
+      "best move": "Rxe7+",
+      "opponent best move": "Rxe1+",
+      "fen": "3r4/p1k3p1/1p3p2/1K5p/PPb4r/8/8/8 w - - 0 47"
+    }
+  },
+  "missedDefense when moving a rook": {
+    "1": {
+      "board": ". . . . . . r k\np . p . . R . R\n. p . b . . . .\n. . . . . . . .\n. . . . P . . .\n. . . P . . . .\nP P P B . . r .\n. . K . . . . .",
+      "opponent": "vader1111",
+      "real move": "Rg1+",
+      "best move": "d4",
+      "opponent best move": "Bxg1",
+      "fen": "6rk/p1p2R1R/1p1b4/8/4P3/3P4/PPPB2r1/2K5 b - - 0 26"
+    },
+    "2": {
+      "board": ". . . . . r k .\n. p . . . b . p\np q . . . . p B\n. . . . . . . .\n. n . . P . . .\n. . Q . . . . .\n. P . . . . P P\n. . . R . . . K",
+      "opponent": "pmart85",
+      "real move": "Rxf7",
+      "best move": "Qe5",
+      "opponent best move": "Bxf7",
+      "fen": "5rk1/1p3b1p/pq4pB/8/1n2P3/2Q5/1P4PP/3R3K b - - 4 26"
+    }
+  },
+  "missedDefense when moving a queen": {
+    "1": {
+      "board": ". n . . . . . .\n. . . . . . k .\n. . p K . . . .\n. . . b . . R p\n. . . . . . . .\n. . . . . . . .\n. . . . . . . .\n. . . . . . . .",
+      "opponent": "augisp1",
+      "real move": "Qh6",
+      "best move": "Qe2",
+      "opponent best move": "Qxh6",
+      "fen": "1n6/6k1/2pK4/3b2Rp/8/8/8/8 b - - 0 56"
+    },
+    "2": {
+      "board": "r . . . . . . r\np p p N b k . .\n. . . p . . . .\n. . . . . . . .\n. . . n . B p .\n. . . B . . Q .\nP P P . . . P .\n. . K . R . . R",
+      "opponent": "vader1111",
+      "real move": "Qg3",
+      "best move": "g4",
+      "opponent best move": "Nxf6",
+      "fen": "r6r/pppNbk2/3p4/8/3n1Bp1/3B2Q1/PPP3P1/2K1R2R b - - 0 24"
+    }
+  },
+  "missedDefense when moving a king": {
+    "1": {
+      "board": ". . . r . . . .\np . k . . . p .\n. p . . . p . .\n. K . . . . . p\nP P b . . . . r\n. . . . . . . .\n. . . . . . . .\n. . . . . . . .",
+      "opponent": "Ajaysharma515",
+      "real move": "Kc4",
+      "best move": "a3",
+      "opponent best move": "Rxh4+",
+      "fen": "3r4/p1k3p1/1p3p2/1K5p/PPb4r/8/8/8 w - - 0 47"
+    },
+    "2": {
+      "board": ". . . r . . . .\np . k . . . p .\n. p . . . p . .\n. K . . . . . p\nP P b . . . . r\n. . . . . . . .\n. . . . . . . .\n. . . . . . . .",
+      "opponent": "Ajaysharma515",
+      "real move": "Kb3",
+      "best move": "Kd2",
+      "opponent best move": "Bxf5",
+      "fen": "3r4/p1k3p1/1p3p2/1K5p/PPb4r/8/8/8 w - - 0 47"
+    }
+  },
+  "positionalMistake when moving a bishop": {
+    "1": {
+      "board": "r . . . k b . r\np p . . . p . .\n. n q p . n . .\n. B . . p P . p\n. . . . . . p .\n. . N . . . B .\nP P P . Q P P P\nR . . . . R K .",
+      "opponent": "katrok212",
+      "real move": "Bg5",
+      "best move": "Ng5",
+      "opponent best move": "g6",
+      "fen": "r3kb1r/pp3p2/1nqp1n2/1B2pP1p/6p1/2N3B1/PPP1QPPP/R4RK1 b kq - 1 16"
+    },
+    "2": {
+      "board": ". . . . . . . .\n. . . . . . . .\n. . . . . p . .\np K . . . . . .\n. . . p . . P .\n. . . . . k . .\nP . . . . . . .\n. . . . . . . .",
+      "opponent": "Iceryder",
+      "real move": "Bg5",
+      "best move": "Be3",
+      "opponent best move": "Nf6",
+      "fen": "8/8/5p2/pK6/3p2P1/5k2/P7/8 b - - 0 49"
+    }
+  },
+  "allowedMate when moving a queen": {
+    "1": {
+      "board": ". r . . k . . r\np . Q . . p . p\nB . b . p . p B\n. . . . . . . .\n. n . P . . . .\n. P . . . . . .\n. . q . . . P P\n. . K R . R . .",
+      "opponent": "Imfaz69",
+      "real move": "Qxc7",
+      "best move": "Bd3",
+      "opponent best move": "Qxa2+",
+      "fen": "1r2k2r/p1Q2p1p/B1b1p1pB/8/1n1P4/1P6/2q3PP/2KR1R2 w k - 0 24"
+    }
+  }
+}
